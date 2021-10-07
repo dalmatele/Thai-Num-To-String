@@ -1,4 +1,12 @@
 {
 	"name": "thai-num-to-str",
-	"version": "1.0.1"
+	"version": "1.0.3",
+	"description": "A small tool to convert Thai Number to String",
+	"keywords": ["Thai", "convert", "tool"],
+	"homepage": "https://github.com/dalmatele/Thai-Num-To-String",
+	"bugs": {
+		"url": "https://github.com/dalmatele/Thai-Num-To-String/issues",
+		"email": "dalmate@live.com"
+	},
+	"license": "GPL-3.0"
 }
